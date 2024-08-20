@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyansh Bhandari</h1>
 <h3 align="center">More than a Software Engineering student at UWaterloo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyxnsh&label=Profile%20views&color=0e75b6&style=flat" alt="divyxnsh" /> </p>
-
 - 🔭 I’m currently working on **building the cricket guru discord bot and website**
 
 - 🌱 I’m currently learning **GoLang and utilizing Langchain**
