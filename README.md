@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyansh Bhandari</h1>
-<h3 align="center">More than a Software Engineering student at UWaterloo</h3>
+<h3 align="center">A Software Engineering student at UWaterloo</h3>
 
 - 🔭 I’m currently working on **building the cricket guru discord bot and website**
 
